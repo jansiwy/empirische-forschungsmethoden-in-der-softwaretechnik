@@ -4,3 +4,4 @@ persoenlicher-softwareprozess/artikel/
 *.log
 *.synctex.gz
 *.toc
+_site/
